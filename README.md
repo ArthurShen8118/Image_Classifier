@@ -1,9 +1,9 @@
 
-<h1 align="center">Bank Customer Churn Analytics</h1>
+<h1 align="center">Image Classify</h1>
 
 
 <div align= "center">
-  <h4>Churn Predication system built with  Keras/TensorFlow using Deep Learning concepts in order to predicit churn analytics.</h4>
+  <h4>Image Classify system built with  Keras/TensorFlow using Deep Learning concepts in order to classify the images.</h4>
   
 </div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -16,7 +16,7 @@
 </div>
 
 ## Motivation
-Customer’s experience is one of the important concern for bank industries. This project presents a deep learning approach to analyse which factors contribute to customer churn and also to improve the customer’s experience and help banks to securely retain customers. 
+Classifying the images can make human lives more convient. This project presents a deep learning approach to classify the dog and cat images automatically by AI. We can apply this concept to the another technologies more around our daily life ex: auto-tagging system on our social media or quality control in the various field, etc.
 
  
 
