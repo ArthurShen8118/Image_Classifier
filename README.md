@@ -32,16 +32,16 @@ Classifying the images can make human lives more convient. This project presents
 ##  Dataset
 
 
-This dataset consists of __100000 customers__ details.
+This dataset consists of __8000 images__ belonging to two classes:
+*	__with_mask: 4000 images__
+*	__without_mask: 4000 images__
 
 The dataset were collected from the following sources:
 
 * __Kaggle datasets__ 
 
 
-## Prerequisites
 
-All the dependencies and required libraries are included in the file <code>requirements.txt</code> [See here](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/requirements.txt)
 
 ## Features
 A method to use the dataset from Kaggle to train the predication model by Artificial Neural Network. Also, we use the test_dataset splited from dataset to do the test and get the good result.
@@ -57,5 +57,5 @@ A method to use the dataset from Kaggle to train the predication model by Artifi
 ## Owner
 Made with by [Arthur Hui-Chung Shen](https://github.com/ArthurShen8118)
 
-Email: arthurshen0829@gmail.com
+Email: huichung.shen@gmail.com
 
