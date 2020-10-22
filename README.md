@@ -16,7 +16,7 @@
 </div>
 
 ## Motivation
-Classifying the images can make human lives more convient. This project presents a deep learning approach to classify the dog and cat images automatically by AI. We can apply this concept to the another technologies more around our daily life ex: auto-tagging system on our social media or quality control in the various field, etc.
+Classifying the images automatically can make human lives more convient. This project presents a deep learning approach to classify the dog and cat images automatically by AI. We can apply this concept to the another technologies more around our daily life ex: auto-tagging system on our social media or quality control in the various field, etc.
 
  
 
