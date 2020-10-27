@@ -1,5 +1,5 @@
 
-<h1 align="center">Image Classify</h1>
+<h1 align="center">Image Classifier</h1>
 
 
 <div align= "center">
